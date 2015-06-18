@@ -1,4 +1,10 @@
 eclipse.preferences.version=1
-encoding//src/models.py=utf-8
-encoding//src/transwarp/db.py=utf-8
-encoding//src/transwarp/orm.py=utf-8
+encoding//src/www/config.py=utf-8
+encoding//src/www/config_default.py=utf-8
+encoding//src/www/config_override.py=utf-8
+encoding//src/www/models.py=utf-8
+encoding//src/www/transwarp/db.py=utf-8
+encoding//src/www/transwarp/orm.py=utf-8
+encoding//src/www/transwarp/web.py=utf-8
+encoding//src/www/urls.py=utf-8
+encoding//src/www/wsgiapp.py=utf-8

@@ -4,7 +4,7 @@ Created on 2015年5月11日
 
 @author: sayoko
 '''
-from www import config_default
+import config_default
 class Dict(dict):
     def __init__(self, names = (), values = (), **kw):
         super(Dict, self).__init__(**kw)
